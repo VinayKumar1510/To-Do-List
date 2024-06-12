@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Mina:wght@400;700&display=swap');
+
+body {
+    font-family: "Mina", sans-serif;
+    background-image: url("https://c0.wallpaperflare.com/preview/902/404/8/blurred-background-close-up-colors-dark.jpg");
+    background-repeat: repeat;
+    font-weight: 300;
+    font-style: normal;
+    background-color: rgb(79, 78, 78);
+    font-size: 18px;
+}
